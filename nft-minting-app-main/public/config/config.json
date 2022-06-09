@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x472ACCcfFA325E4059E11742f759685399eFb498",
+  "SCAN_LINK": "mumbai.polygonscan.com/address/0x6205129f5DaCe4A9ED16Ce057126f8e0a41fF713",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cupid Co",
+  "SYMBOL": "CCNFT",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "testnets.opensea.io/collection/cupid-co",
+  "SHOW_BACKGROUND": true
+}
